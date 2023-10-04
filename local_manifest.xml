@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<manifest>
+
+ <!-- Trees -->
+ <project path="device/motorola/rhodei" name="abkdmn-ng/twrp_motorola_rhodei.git" remote="github" revision="rhodei_g-user-11-S2SSIS32.18-12-4-11-59b9c2-release-keys" />
+ <project path="vendor/motorola" name="https://github.com/abkdmn-ng/vendor_motorola_rhodei.git" remote="github" revision="master" />
+ <project path="kernel/motorola/rhodei" name="abkdmn-ng/android_kernel_motorla_rhodei.git" remote="github" revision="13-rebase" />
+ 
+</manifest>
